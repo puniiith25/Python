@@ -32,4 +32,5 @@ else:
 
 
 # python chat bot
-# using google gemini
+# using google 
+# gemini
